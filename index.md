@@ -9,7 +9,7 @@ This site will contain all the necessary tutorials for learning the basics of R
 
 
 ### Contact us
-On email: danc-eemb@ucsb.edu
-On instagram: Danc.ucsb
-On Twitter: danc_ucsb
+* On email: danc-eemb@ucsb.edu
+* On instagram: Danc.ucsb
+* On Twitter: danc_ucsb
 
