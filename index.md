@@ -1,8 +1,6 @@
 ## Welcome the Data Analysis and Coding Club's Github Pages
 
-You can use the [editor on GitHub](https://github.com/jtmiller28/danc_ucsb.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site will contain all the necessary tutorials for learning the basics of R
 
 ### Markdown
 
