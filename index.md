@@ -1,12 +1,11 @@
-## Welcome the Data Analysis and Coding Club's Github Pages
+## Welcome to the Data Analysis and Coding Club's Github Pages
 
 This site will contain all the necessary tutorials for learning the basics of R
 
 ### Tutorials
-1. Basics of R: A tutorial built for those just starting out on programming with R. 
-<a href="https://jtmiller28.github.io/danc_ucsb.github.io/Tutorials/Basics-of-R.html">Visit Basics of R!</a>
+1. <a href="https://jtmiller28.github.io/danc_ucsb.github.io/Tutorials/Basics-of-R.html">Basics of R:</a>: A tutorial built for those just starting out on programming with R. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
