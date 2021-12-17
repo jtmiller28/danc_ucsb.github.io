@@ -2,7 +2,9 @@
 
 This site will contain all the necessary tutorials for learning the basics of R
 
-### Markdown
+### Tutorials
+1. Basics of R: A tutorial built for those just starting out on programming with R. 
+<a href="https://jtmiller28.github.io/danc_ucsb.github.io/Tutorials/Basics-of-R.html">Visit Basics of R!</a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
