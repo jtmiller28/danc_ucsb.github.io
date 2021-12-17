@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome the Data Analysis and Coding Club's Github Pages
 
 You can use the [editor on GitHub](https://github.com/jtmiller28/danc_ucsb.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
